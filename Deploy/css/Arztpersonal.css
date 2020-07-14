@@ -1,0 +1,86 @@
+.body{
+    background-color: green;
+}
+
+.arztpersonal{
+    background-color: gray;
+    text-align: center;
+    color: aliceblue;
+    
+}
+.box1, .box2, .box3 {
+     float: left;
+     width: 32%;
+     margin-right: 2%;
+     padding: 20px;
+     background: #eee;
+     box-sizing: border-box;
+     text-align: center;
+}
+
+.box3 {
+     margin-right: 0;
+}
+
+
+
+
+.container{
+    
+    margin-top: 2%;
+    background:  linear-gradient(to bottom,#D1D4D5, #757879);
+   /* background-color: #BABBC0; */
+    
+    
+    
+}
+
+
+
+
+.col-md-3{
+    background-color: #BABBC0;
+    width: 30%;
+    margin-right: 3.33333%;
+    margin-left: 3.33333%; 
+    margin-top: 3.33333%;
+    margin-bottom: 3.33333%; 
+    height: 650px;
+    border-style:inherit;
+    border-radius: 10px;
+    text-align: center;
+    float: left;
+   
+}
+
+.col-md-3 img{
+    display: block;
+    margin: auto;
+}
+
+.col-md-3 a{
+    color: whitesmoke;
+}
+
+.container1{
+    
+    margin: 5%;
+     background:  linear-gradient(to bottom, #757879,#D1D4D5);
+    height: 350px;
+}
+
+.col-md-4{
+    float: left;
+    width: 30%;
+}
+
+img {
+  max-width: 100%;
+ 
+}
+
+
+footer{
+    background-color: #F1F3F3;
+    text-align: center;
+}
